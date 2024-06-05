@@ -1,6 +1,7 @@
 spring:
   application:
     name: Config-Produc
+
 eureka:
   client:
     fetch-registry: true
